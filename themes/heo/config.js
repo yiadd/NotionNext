@@ -20,7 +20,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: '',
   HEO_HERO_TITLE_4: '推荐',
   HEO_HERO_TITLE_5: '查看推荐文章',
-  HEO_HERO_TITLE_LINK: '#',
+  HEO_HERO_TITLE_LINK: '/tag/推荐',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
@@ -48,7 +48,7 @@ const CONFIG = {
   HEO_INFO_CARD_ICON1: 'fas fa-user',
   HEO_INFO_CARD_URL2: '',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: 'https://blog.cd.mba',
+  HEO_INFO_CARD_URL3: '/about',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
   // 用户技能图标
